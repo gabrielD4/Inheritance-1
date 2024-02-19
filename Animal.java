@@ -1,5 +1,6 @@
 public class Animal {
-    public void animalNoises (String noise) {
-        System.out.println("The animal is = " + noise);
+
+    public void makeNoise() {
+        System.out.println("Generic animal noise");
     }
 }
